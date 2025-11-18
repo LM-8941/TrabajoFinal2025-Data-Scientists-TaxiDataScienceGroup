@@ -1,0 +1,24 @@
+# --- Core Data Science ---
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+scipy==1.12.0
+
+# --- Visualización ---
+matplotlib==3.8.3
+seaborn==0.13.2
+plotly==5.19.0
+
+# --- Ingeniería de características ---
+category_encoders==2.6.3
+
+# --- Procesamiento de fechas y zonas horarias ---
+pytz==2024.1
+
+# --- Utilidades ---
+tqdm==4.66.2
+python-dotenv==1.0.1
+
+# --- Manejo de notebooks ---
+jupyter==1.0.0
+notebook==7.1.0
